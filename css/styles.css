@@ -192,17 +192,17 @@ input:hover {
 }
 
 #level_1 {
-	background: url(../images/level1.png) center no-repeat;
+	background: url(../images/Level1.png) center no-repeat;
 	background-size: cover;
 }
 
 #level_2 {
-	background: url(../images/level2.png) center no-repeat;
+	background: url(../images/Level2.png) center no-repeat;
 	background-size: cover;
 }
 
 #level_3 {
-	background: url(../images/level3.png) center no-repeat;
+	background: url(../images/Level3.png) center no-repeat;
 	background-size: cover;
 }
 
